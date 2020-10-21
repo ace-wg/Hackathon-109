@@ -74,7 +74,6 @@ Verifier .... `4`
 "Sequence Number Synchronization Method" ... `1`
 "Key Update Check Interval" ................ `2`
 "Expiration delta" ......................... `3`
-"Group OSCORE Pairwise Mode" ............... `4`
 
 
 #### Values for "Sequence Number Synchronization Method"

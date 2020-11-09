@@ -15,6 +15,8 @@ In order to have common values we will be using the following for testing.
 
 * Nonce1 ==> 65  (ace-oscore-profile)
 * Nonce2 ==> 66  (ace-oscore-profile)
+* ID1 ==> 67  (ace-oscore-profile)
+* ID2 ==> 68  (ace-oscore-profile)
 * sign_info ... `203`
 * kdcchallence ... `205`
 

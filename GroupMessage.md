@@ -49,7 +49,7 @@ Encoded Request = 54-02-FF-FF-34-73-12-11-9C-39-00-08-37-CB-F3-21-00-17-A2-D3-01
 
 ## Message #3
 
-Use key 'Rikard Test 2' from [GroupKeys.md] (?) - Entity #1
+Use key 'Rikard Test 2' from [GroupKeys](GroupKeys.md) - Entity #1
 
 ~~~
 AAD =  85-01-84-0A-27-82-81-01-82-01-06-82-01-06-41-0A-41-01-40

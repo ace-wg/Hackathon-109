@@ -7,7 +7,7 @@ Inputs:
 * Master Secret:  0x0102030405060708090a0b0c0d0e0f10 (16 bytes)
 * Master Salt: 0x9e7ca92223786340 (8 bytes)
 * Group Id: 0x09EDDA (2 bytes)
-* Countersign Algorithm: -7 (EDDSA w/ SHA-256)
+* Countersign Algorithm: -7 (ECDSA w/ SHA-256)
 * Countersign Algorithm Parameters: [[2], [2, 1]]
 * Countersign Key Parameters: [2, 1]
 

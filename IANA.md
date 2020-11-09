@@ -7,7 +7,7 @@ In order to have common values we will be using the following for testing.
 ## Media Types
 
 * application/ace+cbor ==> 65000
-* application/ace-groupcomm+cbor ==> 66000
+* application/ace-groupcomm+cbor ==> 65501
 * application/CoRAL ==> 65087
 * text/CoRAL ==>  65343 
 

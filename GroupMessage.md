@@ -2,7 +2,7 @@
 
 ## Message #1
 
-Use key 'TBD1' - Enitity #1
+Use key 'Jim Test 1' from [GroupKeys](GroupKeys.md) - Entity #1
 
 ~~~
 AAD =  85-01-84-0A-26-82-81-02-82-02-01-82-02-01-41-E1-41-01-40
@@ -26,7 +26,7 @@ Encoded Request = 40-02-FF-FF-97-39-01-03-0A-0B-0C-E1-FF-F0-A0-FB-E1-AE-80-E9-24
 
 ## Message #2
 
-Use key 'TBD2' - Entity #1
+Use key 'Rikard Test 1' from [GroupKeys](GroupKeys.md) - Entity #1
 
 ~~~
 AAD =  85-01-84-0A-26-82-81-02-82-02-01-82-02-01-41-01-41-00-40

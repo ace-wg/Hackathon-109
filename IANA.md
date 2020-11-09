@@ -40,6 +40,14 @@ Responder ... `2`
 Monitor ..... `3`
 Verifier .... `4`
 
+This means that the possible values are possible for the AIF integer indicating the role of combination of roles of a node.
+
+Requester = 2 , i.e. 2^1
+Responder = 4 , i.e. 2^2
+Request+Responder = 6 , i.e. 2^1 + 2^2
+Monitor = 8 , i.e. 2^3
+Verifier = 16 , i.e. 2^4
+
 ### Labels application/ace-groupcomm+cbor
 
 * scope ...... `9`
@@ -56,6 +64,7 @@ Verifier .... `4`
 * ace_groupcomm_profile ... `38`
 * num .................... `206`
 * group_policies ......... `207`
+* peer_roles.... ......... `208`
 * mgt_key_material
 
 

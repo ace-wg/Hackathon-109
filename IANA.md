@@ -35,18 +35,18 @@ In order to have common values we will be using the following for testing.
 
 ### Group OSCORE role identifiers
 
-Requester ... `1`
-Responder ... `2`
-Monitor ..... `3`
-Verifier .... `4`
+* Requester ... `1`
+* Responder ... `2`
+* Monitor ..... `3`
+* Verifier .... `4`
 
 This means that the possible values are possible for the AIF integer indicating the role of combination of roles of a node.
 
-Requester = 2 , i.e. 2^1
-Responder = 4 , i.e. 2^2
-Request+Responder = 6 , i.e. 2^1 + 2^2
-Monitor = 8 , i.e. 2^3
-Verifier = 16 , i.e. 2^4
+* Requester = 2 , i.e. 2^1
+* Responder = 4 , i.e. 2^2
+* Request+Responder = 6 , i.e. 2^1 + 2^2
+* Monitor = 8 , i.e. 2^3
+* Verifier = 16 , i.e. 2^4
 
 ### Labels application/ace-groupcomm+cbor
 
@@ -80,13 +80,13 @@ Verifier = 16 , i.e. 2^4
 
 #### Labels for 'group_policies' entries
 
-"Sequence Number Synchronization Method" ... `1`
-"Key Update Check Interval" ................ `2`
-"Expiration delta" ......................... `3`
+* "Sequence Number Synchronization Method" ... `1`
+* "Key Update Check Interval" ................ `2`
+* "Expiration delta" ......................... `3`
 
 
 #### Values for "Sequence Number Synchronization Method"
 
-"Best effort" ............... `1`
-"Baseline" .................. `2`
-"Echo challenge-response" ... `3`
+* "Best effort" ............... `1`
+* "Baseline" .................. `2`
+* "Echo challenge-response" ... `3`

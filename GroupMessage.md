@@ -1,5 +1,7 @@
 # Group Message Data
 
+*Note that these messages were generated before the change to the external_aad done in draft version 10.*
+
 ## Message #1
 
 Use key 'Jim Test 1' from [GroupKeys](GroupKeys.md) - Entity #1

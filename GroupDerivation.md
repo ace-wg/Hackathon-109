@@ -38,16 +38,16 @@ Creating a group context with 1 sender context and 2 recipient contexts, based o
 **Sender Context**  
 Sender Key = 33badb4d6b487e16bc8dc3f6db382990
 
-Pairwise Sender Key to Recipient 1 = bcc78daf03b2ce75c95b21ae7dee3a99  
-Pairwise Sender Key to Recipient 2 = 10fa30c43dbe436954084fcd90c1f6f2  
+Pairwise Sender Key to Recipient 1 = <del>bcc78daf03b2ce75c95b21ae7dee3a99</del>  
+Pairwise Sender Key to Recipient 2 = <del>10fa30c43dbe436954084fcd90c1f6f2</del> <ins>b5c17a33ef6cc02c2eab600b9eabc24c</ins>
 
 Shared secret with Recipient 1 = 4546babdb9482396c167af11d21953bfa49eb9f630c45de93ee4d3b9ef059576  
 Shared secret with Recipient 2 = bb11648af3dfebb35e612914a7a21fc751b001aceb0267c5536528e2b9261450  
 
 **Recipient Context 1**  
 Recipient Key = 1809ba2d5dc543e600270023c29c31f8  
-Pairwise Recipient Key = 2735818179dd21baa586482bf47fd4fb  
+Pairwise Recipient Key = <del>2735818179dd21baa586482bf47fd4fb</del>  
 
 **Recipient Context 2**  
 Recipient Key = 3e55d62e4541dbf594dee14bc425d19b  
-Pairwise Recipient Key = 41dbb059334de5a63f4fd67562f83561  
+Pairwise Recipient Key = <del>41dbb059334de5a63f4fd67562f83561</del> <ins>bf6c4e4cea09080e295ff27817578b45</ins>
